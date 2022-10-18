@@ -1,5 +1,27 @@
-.App {
-  text-align: center;
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.result {
+  font-size: 70px;
+}
+
+.boxClick {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+}
+
+.add {
+  margin-top: 10px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #c3c4bd;
+  cursor: pointer;
+
 }
 
 .App-logo {
@@ -32,6 +54,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
