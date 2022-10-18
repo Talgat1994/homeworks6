@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Talgat1994/homeworks6.git/static/css/main.e9bd1682.css",
+    "main.js": "/Talgat1994/homeworks6.git/static/js/main.0be64c4f.js",
+    "index.html": "/Talgat1994/homeworks6.git/index.html",
+    "main.e9bd1682.css.map": "/Talgat1994/homeworks6.git/static/css/main.e9bd1682.css.map",
+    "main.0be64c4f.js.map": "/Talgat1994/homeworks6.git/static/js/main.0be64c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9bd1682.css",
+    "static/js/main.0be64c4f.js"
+  ]
+}
