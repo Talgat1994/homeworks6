@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Talgat1994/homeworks6.git/static/css/main.e9bd1682.css",
-    "main.js": "/Talgat1994/homeworks6.git/static/js/main.0be64c4f.js",
-    "index.html": "/Talgat1994/homeworks6.git/index.html",
-    "main.e9bd1682.css.map": "/Talgat1994/homeworks6.git/static/css/main.e9bd1682.css.map",
-    "main.0be64c4f.js.map": "/Talgat1994/homeworks6.git/static/js/main.0be64c4f.js.map"
+    "main.css": "/homeworks6/static/css/main.272b6357.css",
+    "main.js": "/homeworks6/static/js/main.0be64c4f.js",
+    "index.html": "/homeworks6/index.html",
+    "main.272b6357.css.map": "/homeworks6/static/css/main.272b6357.css.map",
+    "main.0be64c4f.js.map": "/homeworks6/static/js/main.0be64c4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9bd1682.css",
+    "static/css/main.272b6357.css",
     "static/js/main.0be64c4f.js"
   ]
 }
